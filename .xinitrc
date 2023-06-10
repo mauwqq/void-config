@@ -1,0 +1,2 @@
+xhost +localhost &
+exec dwm
